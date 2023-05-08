@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aichiro Suryo Prabowo"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
