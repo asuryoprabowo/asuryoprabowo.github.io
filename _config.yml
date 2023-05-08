@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aichiro Suryo Prabowo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "University of Maryland School of Public Policy"
+  location         : "College Park, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Uh4yUqcAAAAJ&hl=en&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@AichiroSuryo"
   vine             :
   weibo            :
   xing             :
