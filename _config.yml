@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aichiro Suryo Prabowo"
-  avatar           : "profile.png"
+  avatar           : images/profile.png
   bio              : "University of Maryland School of Public Policy"
   location         : "College Park, MD"
   employer         :
