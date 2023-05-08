@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello!
+
 ------
 Graduated recently from the University of Maryland School of Public Policy, I have established myself as a scholar at the intersection of sustainability and public finance. 
 
