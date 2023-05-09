@@ -6,7 +6,7 @@ excerpt:
 date: 2020-11-24
 venue: 'Journal of Public Budgeting, Accounting & Financial Management'
 paperurl: 'https://doi.org/10.1108/JPBAFM-07-2020-0111'
-citation: 'Joyce, P. G., & Aichiro Suryo Prabowo. (2020). &quot;Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers.&quot; <i>Journal of Public Budgeting, Accounting & Financial Management</i>, 32(5), 745-758. https://doi.org/10.1108/JPBAFM-07-2020-0111'
+citation: 
 
 ---
 
