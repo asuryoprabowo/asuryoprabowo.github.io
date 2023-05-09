@@ -1,5 +1,5 @@
 ---
-title: ["Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia"](http://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf)
+[title: "Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia"](http://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf)
 collection: publications
 permalink: /publication/2022_SuryoPrabowo
 excerpt: 
