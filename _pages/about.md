@@ -11,8 +11,9 @@ redirect_from:
 
 
 ------
-I graduated from the University of Maryland School of Public Policy in May 2023, and have established myself as a scholar at the intersection of sustainability and public finance. 
 
-My dissertation, "Essays on Natural Disasters and Fiscal Resilience," empirically studies how environmental shocks like weather-related disasters affect state governments' finances, and what actions governments should take to maintain fiscal resilience and sustainability.
+I recently graduated from the University of Maryland and will begin my postdoc at Cornell University this summer.
+
+Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My dissertation, "Essays on Natural Disasters and Fiscal Resilience," empirically studies how environmental shocks like weather-related disasters affect state governments' finances, and what actions governments should take to maintain fiscal resilience and sustainability.
 
 Email me at [aichiro@umd.edu](mailto:aichiro@umd.edu).
