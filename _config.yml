@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aichiro Suryo Prabowo"
 title_separator          : "-"
 name                     : &name "Aichiro Suryo Prabowo"
-description              : &description "Cornell University"
+description              : &description "Postdoc at Cornell University"
 url                      : https://asuryoprabowo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asuryoprabowo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aichiro Suryo Prabowo"
   avatar           : "profile.JPG"
-  bio              : "Cornell University"
+  bio              : "Postdoc at Cornell University"
   location         : "Ithaca, NY"
   employer         :
   pubmed           : 
