@@ -13,7 +13,7 @@ redirect_from:
 
 I recently earned my PhD from the University of Maryland and previously completed my MPP from the University of Chicago. This summer, I will be joining Cornell University for a postdoc. 
 
-Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My dissertation, "Essays on Natural Disasters and Fiscal Resilience," studies how environmental shocks like weather-related disasters affect state governments' finances, and what actions governments should take to maintain fiscal resilience and sustainability.
+Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My dissertation, "Essays on Natural Disasters and Fiscal Resilience," studies how environmental shocks like major flooding and hurricanes affect state governments' finances, and what actions governments should take to maintain fiscal resilience and sustainability.
 
 Beyond academia, I've consulted internationally for the World Bank and served as an associate director at Indonesia's Presidential Office (UKP4).
 
