@@ -15,6 +15,6 @@ I recently earned my PhD from the University of Maryland and previously complete
 
 Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My dissertation, "Essays on Natural Disasters and Fiscal Resilience," empirically studies how environmental shocks like weather-related disasters affect state governments' finances, and what actions governments should take to maintain fiscal resilience and sustainability.
 
-Beyond academia, I've consulted internationally for the World Bank and previously served as an associate director at Indonesia's Presidential Office (UKP4).
+Beyond academia, I've consulted internationally for the World Bank and served as an associate director at Indonesia's Presidential Office (UKP4).
 
 Email me at [aichiro@cornell.edu](mailto:aichiro@cornell.edu).
