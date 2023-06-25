@@ -43,15 +43,13 @@
   }
 }
 
-.page__lead {
+.page__lead {   
+margin-top: 2em;
   font-family: $global-font-family;
   font-size: $type-size-4;
 }
 
 .page__content {
-
-text-align: justify;
-margin-top: 2em;   
    
   h2 {
     padding-bottom: 0.5em;
