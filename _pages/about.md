@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-
-
 <h2> Greetings! </h2>
 
 I recently graduated from the University of Maryland and will begin my postdoc at Cornell University this summer. Beyond academia, I've consulted internationally for the World Bank and previously served as an associate director at Indonesia's Presidential Office (UKP4). 
