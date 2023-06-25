@@ -11,9 +11,7 @@ redirect_from:
 
 
 
-Greetings!
-
-------
+<h2> Greetings! </h2>
 
 I recently graduated from the University of Maryland and will begin my postdoc at Cornell University in August 2023.
 
