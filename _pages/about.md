@@ -13,7 +13,7 @@ redirect_from:
 
 I recently received my PhD from the University of Maryland and will be joining Cornell University for a postdoc this summer. 
 
-Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My [dissertation](https://drum.lib.umd.edu/items/f13a8fd1-29b3-4794-bb0f-bf9caaf5f483) studies how environmental shocks like flooding and hurricanes affect American state governments' finances and what actions they should take to maintain fiscal resilience and sustainability.
+Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My [dissertation](https://drum.lib.umd.edu/items/f13a8fd1-29b3-4794-bb0f-bf9caaf5f483) studies how environmental shocks like flooding and hurricanes affect American state governments' finances, and what actions they should take to maintain fiscal resilience and sustainability.
 
 Beyond academia, I have consulted internationally for the World Bank and previously served as an associate director at Indonesia's Presidential Office (UKP4).
 
