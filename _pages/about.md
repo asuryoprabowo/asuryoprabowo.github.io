@@ -11,7 +11,7 @@ redirect_from:
 
 <h2> Greetings! </h2>
 
-I recently received my PhD from the University of Maryland and will be joining Cornell University for a postdoc this summer. 
+I am a Postdoctoral Fellow at the Cornell University Southeast Asia Program (SEAP).
 
 Through research, I aspire to bridge two fields within public policy: sustainability and public budgeting. My [dissertation](https://drum.lib.umd.edu/items/f13a8fd1-29b3-4794-bb0f-bf9caaf5f483) studies how environmental shocks like flooding and hurricanes affect American state governments' finances, and what actions they should take to maintain fiscal resilience and sustainability.
 
