@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_SuryoPrabowo
 excerpt: 
 date: 2023-05-01
-venue: 
+venue: 'University of Maryland Theses and Dissertations'
 paperurl:
 citation: 
 
