@@ -16,7 +16,7 @@ Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned
 
 Working papers
 ===
-Determinants of State Research Spending (with Thomas Luke Spreen)
+Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen)
 
 Shared Fiscal Governance in Managing Flood Disasters (submitted)
 
