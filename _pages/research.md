@@ -7,9 +7,9 @@ Publications
 ===
 Essays on Natural Disasters and Fiscal Resilience (2023)
 
-Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)
+[Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf)
 
-Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (with Philip G. Joyce) (2020) 
+[Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (with Philip G. Joyce) (2020)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf)
 
 [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf)
 
