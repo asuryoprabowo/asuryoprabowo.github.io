@@ -29,4 +29,4 @@ Climate change as policy agenda: Evidence from Indonesia
 
 Climate finance in developing countries (with Komla Dzigbede)
 
-Financing for Indonesia's New Capital (with Thomas Pepinsky)
+Financial and political dimensions in Indonesia's new capital (with Thomas Pepinsky)
