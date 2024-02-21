@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research"
 ---
 
+<br />
+
 Publications
 ===
 Essays on Natural Disasters and Fiscal Resilience (2023)
@@ -13,6 +15,7 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf)
 
+<br />
 
 Working papers
 ===
@@ -22,7 +25,7 @@ Shared Fiscal Governance in Managing Flood Disasters (submitted)
 
 Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents (submitted)
 
-
+<br />
 
 Work in progress
 ===
