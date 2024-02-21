@@ -18,9 +18,9 @@ Working papers
 ===
 Determinants of State Research Spending (with Thomas Luke Spreen)
 
-Shared Fiscal Governance in Managing Flood Disasters
+Shared Fiscal Governance in Managing Flood Disasters (submitted)
 
-Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents
+Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents (submitted)
 
 
 Work in progress
