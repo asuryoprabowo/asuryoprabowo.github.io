@@ -6,7 +6,7 @@ title: "Research"
 <br />
 
 Publications
-===
+---
 Essays on Natural Disasters and Fiscal Resilience (2023)
 
 [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf)
@@ -18,7 +18,7 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 <br />
 
 Working papers
-===
+---
 Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen)
 
 Shared Fiscal Governance in Managing Flood Disasters (submitted)
@@ -28,7 +28,7 @@ Do governments proactively mitigate or reactively respond to hurricanes? A textu
 <br />
 
 Work in progress
-===
+---
 Climate change as policy agenda: Evidence from Indonesia
 
 Indonesia's new capital from the financial and political perspectives (with Thomas Pepinsky)
