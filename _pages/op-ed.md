@@ -2,9 +2,6 @@
 permalink: /op-ed/
 title: "Op-ed"
 ---
-
-<br />
-
 Kompas
 ---
 [Perpajakan dalam Pilpres (September 26, 2023)](https://www.kompas.id/baca/opini/2023/09/25/perpajakan-dalam-pilpres)
