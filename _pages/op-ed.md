@@ -3,7 +3,7 @@ permalink: /op-ed/
 title: "Op-ed"
 ---
 
-Kompas
+Harian Kompas
 ---
 Perpajakan dalam Pilpres [(September 26, 2023)](https://www.kompas.id/baca/opini/2023/09/25/perpajakan-dalam-pilpres)
 
@@ -45,7 +45,7 @@ Crossing the Border, Witnessing "Mental Revolution" [(June 15, 2016)](https://ww
 
 <br />
 
-Seputar Indonesia
+Koran Seputar Indonesia
 ---
 Negarawan Bukan Politisi (July 4, 2012)
 
