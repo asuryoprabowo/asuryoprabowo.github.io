@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-<br />
-
 Publications
 ---
 Essays on Natural Disasters and Fiscal Resilience (2023)
