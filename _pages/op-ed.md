@@ -35,6 +35,8 @@ How our government could learn from Uber [(May 16, 2016)](https://www.thejakarta
 
 Our democracy needs smarter haters [(April 13, 2016)](https://www.thejakartapost.com/academia/2016/04/13/our-democracy-needs-smarter-haters.html)
 
+Jokowi has to spend $120 million a day [(September 7, 2015)](https://www.thejakartapost.com/news/2015/09/07/jokowi-has-spend-120-million-a-day.html)
+
 <br />
 
 The Huffington Post
