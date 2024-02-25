@@ -6,7 +6,7 @@ title: "Teaching"
 Cornell University
 ---
 *Sustainable Finance: Southeast Asia and Global Perspectives* <br> 
-Spring 2023
+Spring 2024
 
 <br />
 
@@ -17,12 +17,5 @@ University of Maryland
 
 *Public Economics* <br> 
 [Spring 2022](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/PLCY303_2022_SuryoPrabowo.pdf)
-
-<br />
-
-Universitas Indonesia
----
-*Public Sector Accounting* <br>
-2018 | 2019
 
 <br />
