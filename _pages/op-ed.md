@@ -15,7 +15,7 @@ How Jokowi spends money better in a second term [(July 23, 2019)](https://www.ne
 
 Building a better infrastructure policy after Indonesia’s elections [(March 7, 2019)](https://www.newmandala.org/building-a-better-infrastructure-policy-after-indonesias-elections/)
 
-Indonesia’s real infrastructure challenge: getting people out of their cars [April 16, 2019](https://www.newmandala.org/indonesias-real-infrastructure-challenge-getting-people-out-of-their-cars/)
+Indonesia’s real infrastructure challenge: getting people out of their cars [(April 16, 2019)](https://www.newmandala.org/indonesias-real-infrastructure-challenge-getting-people-out-of-their-cars/)
 
 <br />
 
