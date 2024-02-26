@@ -17,11 +17,11 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 Working papers
 ---
-Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen)
-
 Shared Fiscal Governance in Managing Flood Disasters (submitted)
 
 Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents (submitted)
+
+Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen)
 
 <br />
 
