@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my most recent CV here.
+Please [email me](mailto:aichiro@cornell.edu) to request for my most recent CV.
