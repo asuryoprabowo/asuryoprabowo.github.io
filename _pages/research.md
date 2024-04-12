@@ -31,4 +31,4 @@ Work in progress
 ---
 Indonesia's new capital from the financial and political perspectives (with Thomas Pepinsky)
 
-Climate finance in developing countries (with Komla Dzigbede)
+Climate finance for developing countries (with Komla Dzigbede)
