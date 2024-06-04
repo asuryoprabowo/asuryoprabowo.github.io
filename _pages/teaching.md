@@ -6,7 +6,7 @@ title: "Teaching"
 Summer 2024 Workshop at UIII
 ---
 *Collecting, classifying, and analyzing textual data using R* <br> 
-Slides | Data
+[Slides](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/UIII_textanalysis.pdf) | [Data](https://asuryoprabowo.github.io/files/pidato.csv)
 
 <br />
 
