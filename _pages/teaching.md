@@ -3,6 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+Workshop at UIII
+---
+*Collecting, classifying, and analyzing textual data using R* <br> 
+Slides
+Data
+
+<br />
+
 Cornell University
 ---
 *Sustainable Finance: Southeast Asia and Global Perspectives (PADM 5615/PUBPOL 3615)* <br> 
