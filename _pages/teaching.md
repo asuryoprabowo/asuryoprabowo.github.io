@@ -3,11 +3,10 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Workshop at UIII
+Summer 2024 Workshop at UIII
 ---
 *Collecting, classifying, and analyzing textual data using R* <br> 
-Slides
-Data
+Slides | Data
 
 <br />
 
