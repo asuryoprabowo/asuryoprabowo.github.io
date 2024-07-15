@@ -17,13 +17,15 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 Working papers
 ---
-Climate change as policy agenda: Evidence from Indonesia (invited for presentation at [the Gatty lecture at Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia))
+The Fiscal Impact of Flood Disasters: Evidence from U.S. states (submitted)
 
-Shared Fiscal Governance in Managing Flood Disasters (submitted)
+Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; submitted)
 
-Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents (submitted)
+Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents
 
-Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen)
+Climate change as policy agenda: Evidence from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia) and [Harvard](https://chinaproject.harvard.edu/event/climate-resilience))
+
+Climate finance for developing countries (with Komla Dzigbede) (preliminary version invited for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
 
 <br />
 
@@ -31,4 +33,4 @@ Work in progress
 ---
 Indonesia's new capital from the financial and political perspectives (with Thomas Pepinsky)
 
-Climate finance for developing countries (with Komla Dzigbede)
+Unveiling the limits of blended finance: Lessons learned from Indonesia
