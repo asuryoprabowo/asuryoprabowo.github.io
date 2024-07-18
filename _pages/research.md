@@ -27,7 +27,7 @@ Do governments proactively mitigate or reactively respond to hurricanes? A textu
 
 Climate change as policy agenda: Evidence from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia) and [Harvard](https://chinaproject.harvard.edu/event/climate-resilience))
 
-Climate finance for developing countries (with Komla Dzigbede) (preliminary version accepted for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
+Climate finance for developing countries (with Komla Dzigbede; preliminary version accepted for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
 
 <br />
 
