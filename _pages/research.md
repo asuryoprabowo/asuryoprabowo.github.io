@@ -19,11 +19,11 @@ Working papers
 ---
 The Fiscal Impact of Flood Disasters: Evidence from U.S. states (_submitted_)
 
-Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; _submitted_)
+Proactive versus reactive policy agenda during hurricanes: A textual analysis of budget documents (_submitted_)
 
 Exploring Disaster Risk Disclosure Practices across U.S. State Governments (_submitted_)
 
-Do governments proactively mitigate or reactively respond to hurricanes? A textual analysis of budget documents
+Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; _submitted_)
 
 Climate change as policy agenda: Evidence from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia) and [Harvard](https://chinaproject.harvard.edu/event/climate-resilience))
 
@@ -35,4 +35,4 @@ Work in progress
 ---
 Indonesia's new capital from the financial and political perspectives (with Thomas Pepinsky)
 
-Unveiling the limits of blended finance: Lessons learned from Indonesia
+Unveiling the limits of blended finance: Lessons learned from Indonesia (preliminary findings invited for presentation at the [CGS](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia) conference)
