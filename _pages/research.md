@@ -33,6 +33,6 @@ Climate finance for developing countries (with Komla Dzigbede; preliminary versi
 
 Work in progress
 ---
-Indonesia's new capital from the financial and political perspectives (with Thomas Pepinsky)
+From White Elephant to White Whale: The Economics and Politics of Nusantara (with Thomas Pepinsky)
 
 Unveiling the limits of blended finance: Lessons learned from Indonesia (preliminary findings invited for presentation at the [CGS](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia) conference)
