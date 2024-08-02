@@ -19,7 +19,7 @@ Working papers
 ---
 The Fiscal Impact of Flood Disasters: Evidence from U.S. states (_submitted_)
 
-Proactive versus reactive policy agenda during hurricanes: A textual analysis of budget documents (_submitted_)
+Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (_submitted_)
 
 Exploring Disaster Risk Disclosure Practices across U.S. State Governments (_submitted_)
 
