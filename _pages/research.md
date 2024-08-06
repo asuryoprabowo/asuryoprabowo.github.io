@@ -17,13 +17,13 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 Working papers
 ---
-The Fiscal Impact of Flood Disasters: Evidence from U.S. states (_submitted_)
+The Fiscal Impact of Flood Disasters: Evidence from U.S. states (_Under review_)
 
-Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (_submitted_)
+Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (_Under review_)
 
-Exploring Disaster Risk Disclosure Practices across U.S. State Governments (_submitted_)
+Exploring Disaster Risk Disclosure Practices across U.S. State Governments (_Under review_)
 
-Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; _submitted_)
+Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; _Under review_)
 
 Climate change as policy agenda: Evidence from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia) and [Harvard](https://chinaproject.harvard.edu/event/climate-resilience))
 
