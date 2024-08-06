@@ -17,7 +17,7 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 Working papers
 ---
-The Fiscal Impact of Flood Disasters: Evidence from U.S. states (_Under review_)
+The Fiscal Impact of Flood Disasters: Evidence from U.S. States (_Under review_)
 
 Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (_Under review_)
 
