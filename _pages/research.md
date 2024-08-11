@@ -25,7 +25,7 @@ Exploring Disaster Risk Disclosure Practices across U.S. State Governments (_Und
 
 Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; _Under review_)
 
-Climate change as policy agenda: Evidence from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia) and [Harvard](https://chinaproject.harvard.edu/event/climate-resilience))
+What do government budgets reveal about climate change as a policy priority? Lessons learned from Indonesia (preliminary version invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [CGS](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
 <br />
 
@@ -34,5 +34,3 @@ Work in progress
 From White Elephant to White Whale: The Economics and Politics of Nusantara (with Thomas Pepinsky)
 
 Climate finance for developing countries (with Komla Dzigbede; preliminary version accepted for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
-
-Unveiling the limits of blended finance: Lessons learned from Indonesia (preliminary findings invited for presentation at the [CGS](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia) conference)
