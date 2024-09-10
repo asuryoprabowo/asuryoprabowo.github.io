@@ -39,6 +39,12 @@ Jokowi has to spend $120 million a day [(September 7, 2015)](https://www.thejaka
 
 <br />
 
+Cornell SEAP Bulletin
+---
+A Tale of Two Indonesias [(Fall 2024)](https://hdl.handle.net/1813/115525)
+
+<br />
+
 The Huffington Post
 ---
 Crossing the Border, Witnessing "Mental Revolution" [(June 15, 2016)](https://www.huffpost.com/entry/crossing-the-border-witnessing-mental-revolution_b_5761dc6ae4b07d4d0a41aa7b)
