@@ -33,4 +33,4 @@ Work in progress
 ---
 From White Elephant to White Whale: The Economics and Politics of Nusantara (with Thomas Pepinsky)
 
-Climate finance for developing countries (with Komla Dzigbede; Invited for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
+Climate finance instruments for developing countries (with Komla Dzigbede; Invited for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
