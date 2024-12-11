@@ -25,7 +25,7 @@ Exploring Disaster Risk Disclosure Practices across U.S. State Governments (Invi
 
 Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen; R&R in _Journal of Public Policy_)
 
-What do government budgets reveal about climate change as a policy priority? Lessons learned from Indonesia (Invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
+Climate change as policy agenda: Evidence from Indonesia (Invited for presentation at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
 <br />
 
