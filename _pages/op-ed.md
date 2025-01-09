@@ -41,7 +41,7 @@ Jokowi has to spend $120 million a day [(September 7, 2015)](https://www.thejaka
 
 Cornell SEAP Bulletin
 ---
-A Tale of Two Indonesias [(Fall 2024)](https://hdl.handle.net/1813/115525)
+A Tale of Two Indonesias [(Fall issue, 2024)](https://hdl.handle.net/1813/115525)
 
 <br />
 
@@ -56,5 +56,11 @@ Koran Seputar Indonesia
 Negarawan Bukan Politisi (July 4, 2012)
 
 Indonesia Memilih (April 30, 2012)
+
+<br />
+
+Majalah Economica
+---
+Republik Gampang Lupa [(46th issue, 2011)](https://economica.id/me-edisi-46-menyemai-asa-dari-pangan-indonesia/)
 
 <br />
