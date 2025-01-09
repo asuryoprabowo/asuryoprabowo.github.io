@@ -34,5 +34,3 @@ Climate change as policy agenda: Evidence from Indonesia (Invited for presentati
 Work in progress
 ---
 Climate finance instruments for developing countries (with Komla Dzigbede; Invited for presentation at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
-
-Infrastructure Governance in Old and New Cities: A Financial Perspective 
