@@ -17,7 +17,7 @@ Essays on Natural Disasters and Fiscal Resilience (2023)
 
 Working papers
 ---
-From White Elephant to White Whale: The Economics and Politics of Nusantara (with Thomas Pepinsky)
+From White Elephant to White Whale: The Economics and Politics of Nusantara Capital City (with Thomas Pepinsky)
 
 Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (R&R to _Environmental Politics_)
 
