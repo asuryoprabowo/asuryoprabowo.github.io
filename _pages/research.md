@@ -19,11 +19,11 @@ Working papers
 ---
 [5] From White Elephant to White Whale: The Economics and Politics of Nusantara (with Thomas Pepinsky)
 
-[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (R&R to _Environmental Politics_)
+[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (R&R in _Environmental Politics_)
 
 [7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Under review)
 
-[8] Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen, R&R to _Journal of Public Policy_)
+[8] Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen, R&R in _Journal of Public Policy_)
 
 [9] Exploring Disaster Risk Disclosure Practices across U.S. State Governments (Invited for resubmission to _Public Budgeting & Finance_)
 
