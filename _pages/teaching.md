@@ -7,7 +7,7 @@ Cornell University
 ---
 *Sustainable Finance: Southeast Asia and Global Perspectives (PUBPOL 3615/5615)* <br> 
 Spring 2025 | [syllabus](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_syl_spring2025.pdf) | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2025.docx) \
-Spring 2024 | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2025.docx)
+Spring 2024 | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2024.docx)
 
 <br />
 
