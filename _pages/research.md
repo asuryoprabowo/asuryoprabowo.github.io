@@ -9,7 +9,7 @@ Publications
 
 [2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
 
-[3] [Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (2020)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf) (with Philip G. Joyce), _Journal of Public Budgeting, Accounting & Financial Management_
+[3] [Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (2020)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf), with [Philip Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce), _Journal of Public Budgeting, Accounting & Financial Management_
 
 [4] [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf), in _Performance Budgeting Reform: Theories and International Practices_
 
@@ -17,20 +17,20 @@ Publications
 
 Working papers
 ---
-[5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748) (with Thomas Pepinsky) | Under review
+[5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (Under review)
     
-[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States | R&R in _Environmental Politics_
+[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (R&R in _Environmental Politics_)
 
-[7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents | Under review
+[7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Under review)
 
-[8] Determinants of State Research Spending: Theory and Evidence (with Thomas Luke Spreen) | R&R in _Journal of Public Policy_
+[8] Determinants of State Research Spending: Theory and Evidence, with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (R&R in _Journal of Public Policy_)
 
-[9] Exploring Disaster Risk Disclosure Practices across U.S. State Governments | Invited for resubmission to _Public Budgeting & Finance_
+[9] Exploring Disaster Risk Disclosure Practices across U.S. State Governments (Invited for resubmission to _Public Budgeting & Finance_)
 
-[10] Climate change as policy agenda: Evidence from Indonesia | Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia)
+[10] Climate change as policy agenda: Evidence from Indonesia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
 <br />
 
 Work in progress
 ---
-[11] Climate finance instruments for developing countries (with Komla Dzigbede) | Presented at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences
+[11] Diffusion of Climate Finance Instruments: Evidence from Developing Countries, with [Komla Dzigbede](https://www.binghamton.edu/public-administration-and-policy/contact/profile.html?id=dzigbede) (Presented at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
