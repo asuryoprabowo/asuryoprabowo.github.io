@@ -6,7 +6,7 @@ title: "Teaching"
 Cornell University
 ---
 *Sustainable Finance: Southeast Asia and Global Perspectives (PUBPOL 3615/5615)* <br> 
-Spring 2025 | [syllabus](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_syl_spring2025.pdf) | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2025.docx) \
+Spring 2025 | [syllabus](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_syl_spring2025.pdf) | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2025.docx) | [course evaluations](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_eval_spring2025.pdf) \
 Spring 2024 | [exam](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_exam_spring2024.docx)
 
 <br />
@@ -22,9 +22,9 @@ Spring 2022 | [syllabus](https://docs.google.com/gview?embedded=true&url=https:/
 
 <br />
 
-Summer 2024 Workshop at UIII
+Guest Lecture
 ---
-*Collecting, classifying, and analyzing textual data using R* <br> 
+*Summer 2024 Workshop at UIII: Collecting, classifying, and analyzing textual data using R* <br> 
 [slides](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/UIII_textanalysis.pdf) | [data](https://asuryoprabowo.github.io/files/pidato.csv)
 
 <br />
