@@ -25,7 +25,7 @@ Working papers
 
 [8] Determinants of State Research Spending: Theory and Evidence, with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (R&R in _Journal of Public Policy_)
 
-[9] Exploring Disaster Risk Disclosure Practices across U.S. State Governments (Invited for resubmission to _Public Budgeting & Finance_)
+[9] Exploring Disaster Risk Disclosure Practices across U.S. State Governments (Submitted)
 
 [10] Climate change as policy agenda: Evidence from Indonesia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
