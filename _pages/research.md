@@ -19,7 +19,7 @@ Working papers
 ---
 [5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (Under review)
     
-[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (R&R in _Environmental Politics_)
+[6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (Submitted)
 
 [7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Under review)
 
