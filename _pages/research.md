@@ -17,11 +17,11 @@ Publications
 
 Working papers
 ---
-[5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (Under review)
+[5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (Submitted)
     
 [6] Fiscal Federalism in the Face of Flood Disasters: Evidence from U.S. States (Submitted)
 
-[7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Under review)
+[7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
 
 [8] Determinants of State Research Spending: Theory and Evidence, with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (R&R in _Journal of Public Policy_)
 
