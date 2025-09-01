@@ -27,10 +27,10 @@ Working papers
 
 [9] Disaster Risk Disclosure in Government Financial Reports: A Computational Text Analysis (Submitted)
 
-[10] Climate change as policy agenda: Evidence from Indonesia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
-
 <br />
 
 Work in progress
 ---
+[10] Climate change as policy agenda: Evidence from Southeast Asia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
+
 [11] Diffusion of Climate Finance Instruments: Evidence from Developing Countries, with [Komla Dzigbede](https://www.binghamton.edu/public-administration-and-policy/contact/profile.html?id=dzigbede) (Presented at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
