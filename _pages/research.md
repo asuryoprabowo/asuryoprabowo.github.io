@@ -17,15 +17,17 @@ Publications
 
 Working papers
 ---
-[5] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (Submitted)
-    
-[6] Flood Disasters and Fiscal Federalism: Evidence from U.S. States (Submitted)
+[5] Flood Disasters and Fiscal Federalism: Evidence from U.S. States (Submitted)
 
-[7] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
+[6] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
+
+[7] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (R&R in _Bulletin of Indonesian Economic Studies_)
 
 [8] Strategic Investment of Public Funds: State Responses to Federal R&D Grants, with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (R&R in _Journal of Public Policy_)
 
 [9] Disaster Risk Disclosure in Government Financial Reports: A Computational Text Analysis (Submitted)
+
+[10] Diffusion of Climate Finance Instruments: Evidence from Low- and Middle-Income Countries, with [Komla Dzigbede](https://www.binghamton.edu/public-administration-and-policy/contact/profile.html?id=dzigbede) (Submitted)
 
 <br />
 
@@ -33,4 +35,4 @@ Work in progress
 ---
 [10] Climate change as policy agenda: Evidence from Southeast Asia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
-[11] Diffusion of Climate Finance Instruments: Evidence from Developing Countries, with [Komla Dzigbede](https://www.binghamton.edu/public-administration-and-policy/contact/profile.html?id=dzigbede) (Presented at the [ABFM](https://abfm.org/annual-conference-2024/) and [ISA](https://www.isanet.org/Conferences/Virtual-2024) conferences)
+[11] The Political Economy of Budget Deficits
