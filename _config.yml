@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aichiro Suryo Prabowo"
 title_separator          : "-"
 name                     : &name "Aichiro Suryo Prabowo"
-description              : &description "Postdoc at Cornell University"
+description              : &description "Sustainability and Public Budgeting/Finance"
 url                      : https://asuryoprabowo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asuryoprabowo.github.io"
