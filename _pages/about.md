@@ -11,7 +11,7 @@ redirect_from:
 
 <h2> Greetings! </h2>
 
-I am an Assistant Professor in Public Policy at Monash University (Indonesia campus). 
+I am an Assistant Professor of Public Policy at Monash University (Indonesia campus). 
 
 My research seeks to bridge two policy areas: sustainability and public budgeting/finance. In the context of climate change, insights from both fields are instrumental in helping our society achieve environmental sustainability without sacrificing fiscal sustainability. Building on this nexus, my dissertation investigates the fiscal implications of environmental shocks like flooding and hurricanes for 50 U.S. states. Currently, I am working on research projects that (1) examine the evolution of climate policy agendas in Southeast Asia and (2) explore feasible climate finance mechanisms as governments in the region, amid budget constraints, navigate the tension between economic growth and environmental protection.
 
