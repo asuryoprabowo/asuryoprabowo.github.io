@@ -17,4 +17,4 @@ My research seeks to bridge two policy areas: sustainability and public budgetin
 
 I received a PhD from the University of Maryland and a master's degree from the University of Chicago, both in public policy studies. Most recently, I was a Southeast Asia Program (SEAP) Postdoctoral Associate at Cornell University (2023-2025), where I also taught a graduate course on Sustainable Finance at the Brooks School of Public Policy. Beyond academia, I have consulted internationally for the World Bank, USAID, and the Economist Intelligence Unit, and previously served as an Associate Director at Indonesia's Presidential Office (UKP4). 
 
-Email me at [aichiro@cornell.edu](mailto:aichiro@cornell.edu).
+Email me at [aichiro@monash.edu](mailto:aichiro@monash.edu).
