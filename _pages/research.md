@@ -7,11 +7,11 @@ Publications
 ---
 [1] Strategic Investment of Public Funds: State Responses to Federal R&D Grants (Accepted), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
 
-[2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
+[2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in Giovanna Dabbicco et al. (Eds), _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
 
 [3] [Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (2020)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf), with [Philip Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce), _Journal of Public Budgeting, Accounting & Financial Management_
 
-[4] [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf), in _Performance Budgeting Reform: Theories and International Practices_
+[4] [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf), in Ho, Alfred T., Maarten de Jong, and Zaozao Zhao (Eds.), _Performance Budgeting Reform: Theories and International Practices_
 
 <br />
 
