@@ -5,7 +5,7 @@ title: "Research"
 
 Publications
 ---
-[1] Strategic Investment of Public Funds: State Responses to Federal R&D Grants (Accepted), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
+[1] Strategic Investment of Public Funds: State Responses to Federal R&D Grants (Forthcoming), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
 
 [2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in Giovanna Dabbicco et al. (Eds), _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
 
