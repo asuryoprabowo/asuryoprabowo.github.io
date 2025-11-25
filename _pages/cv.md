@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please [email me](mailto:aichiro@cornell.edu) to request for my most recent CV.
+My CV (last updated in November 2025) can be viewed [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/CV_ASP.pdf). Please [email me](mailto:aichiro@monash.edu) to request a copy.
