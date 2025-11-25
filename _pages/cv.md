@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My most updated CV can be viewed 
-<a href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://asuryoprabowo.github.io/files/CV_ASP.pdf#disablePrint=true&disableDownload=true" 
-   target="_blank" rel="noopener noreferrer">here</a>.
+Please [email me](mailto:aichiro@monash.edu) to request my most updated CV.
