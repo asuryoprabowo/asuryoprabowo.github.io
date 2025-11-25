@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My CV (last updated in November 2025) can be viewed [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/CV_ASP.pdf). Please [email me](mailto:aichiro@monash.edu) to request a copy.
+My CV (last updated November 2025) can be viewed 
+<a href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://asuryoprabowo.github.io/files/CV_ASP.pdf" 
+   target="_blank" rel="noopener noreferrer">here</a>.
