@@ -5,7 +5,7 @@ title: "Research"
 
 Publications
 ---
-[1] Strategic Investment of Public Funds: State Responses to Federal R&D Grants (Forthcoming), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
+[1] [Strategic Investment of Public Funds: State Responses to Federal R&D Grants (2025)](https://doi.org/10.1017/S0143814X25100913), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
 
 [2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in Giovanna Dabbicco et al. (Eds), _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
 
@@ -21,9 +21,9 @@ Working papers
 
 [6] Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
 
-[7] [From White Elephant to White Whale: The Economics and Politics of Nusantara](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (R&R in _Bulletin of Indonesian Economic Studies_)
+[7] [Indonesia's New Capital City: Public Funding and Public Support](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (R&R in _Bulletin of Indonesian Economic Studies_)
 
-[8] Disaster Risk Disclosure in Government Financial Reports: A Computational Text Analysis (Submitted)
+[8] Disaster Risk Disclosure in Government Financial Reports (Submitted)
 
 [9] Diffusion of Climate Finance Instruments: Evidence from Low- and Middle-Income Countries, with [Komla Dzigbede](https://www.binghamton.edu/community-research-action/profile.html?id=dzigbede) (Submitted)
 
