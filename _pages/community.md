@@ -3,6 +3,8 @@ permalink: /community/
 title: "Community"
 ---
 
+<br />
+
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas.
 
 <br />
@@ -10,7 +12,7 @@ This page highlights my recent and upcoming engagements with policy communities,
 Upcoming
 ---
 _January 22, 2026_ <br />
-**Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop, “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.”
+**Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.”
 
 <br />
 
@@ -33,6 +35,6 @@ _September 6, 2025_ <br />
 
 
 _August 30, 2025_ <br />
-**Speaker** at the public discussion “Polemik Tunjangan Wakil Rakyat,” organized by PERMIAS and PERMIKA. Watch the recording [here](https://www.youtube.com/live/K673aovzPFI?si=8Z-xiC8DAnARv6mb).
+**Speaker** at the public discussion “Polemik Tunjangan Wakil Rakyat,” co-organized by PERMIAS and PERMIKA. Watch the recording [here](https://www.youtube.com/live/K673aovzPFI?si=8Z-xiC8DAnARv6mb).
 
 <br />
