@@ -19,7 +19,7 @@ I am organizing a panel on budgetary politics and fiscal sustainability in South
 
 <br />
 
-Past (past year)
+Past year
 ---
 _November 14, 2025_ <br />
 **Speaker** at the public dialogue “Suara Selatan Selatan: Ekonomi Restoratif sebagai Solusi,” organized by Lingkar Temu Kabupaten Lestari, as part of the Jakarta International Literary Festival.
