@@ -5,14 +5,14 @@ title: "Teaching"
 
 Monash University
 ---
-*Public Sector Reform (ATI 5104)* <br>
-Term II 2026 (scheduled) | more details to come
+_Public Sector Reform (ATI 5104)_ <br>
+Term II 2026 (scheduled) | More details to come
 
-*Corporate Sustainability Management (ATI 5122)* <br>
-Term III 2026 (scheduled) | more details to come
+_Corporate Sustainability Management (ATI 5122)_ <br>
+Term III 2026 (scheduled) | More details to come
 
-_Sustainability & Green Economy (ATI 5430)_ <br>
-Term II 2027 (scheduled) | more details to come
+_Sustainability and the Green Economy (ATI 5430)_ <br>
+Term II 2027 (scheduled) | More details to come
 
 <br />
 
