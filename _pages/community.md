@@ -24,7 +24,7 @@ _January 30, 2026_ <br />
 <br />
 
 _January 22, 2026_ <br />
-**Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.”
+**Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.” The detailed agenda can be viewed [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Monash-UMD_workshop_agenda.pdf).
 
 <br />
 
