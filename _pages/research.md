@@ -5,13 +5,17 @@ title: "Research"
 
 Publications
 ---
-[1] [Strategic Investment of Public Funds: State Responses to Federal R&D Grants (2025)](https://doi.org/10.1017/S0143814X25100913), with [Thomas Luke Spreen](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen), _Journal of Public Policy_
+**Suryo Prabowo, A.** and [Spreen T.L.](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (2025). Strategic Investment of Public Funds: State Responses to Federal R&D Grants. _Journal of Public Policy_ </br>
+[article](https://doi.org/10.1017/S0143814X25100913) | [replication codes](https://doi.org/10.7910/DVN/HHA3QM)
 
-[2] [Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia (2022)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf), in Giovanna Dabbicco et al. (Eds), _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_
+**Suryo Prabowo, A.**. (2022). Budget Process and Budget Structure under the COVID-19 Pandemic in Indonesia. In Giovanna Dabbicco et al. (Eds), _Public Sector Accounting, Financial Accountability and Viability in Times of Crisis_ </br>
+[article](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2022_SuryoPrabowo.pdf)
 
-[3] [Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers (2020)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf), with [Philip Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce), _Journal of Public Budgeting, Accounting & Financial Management_
+[Joyce, P.G.](https://spp.umd.edu/our-community/faculty-staff/philip-joyce) and **Suryo Prabowo, A.** (2020). Government responses to the coronavirus in the United States: immediate remedial actions, rising debt levels and budgetary hangovers. _Journal of Public Budgeting, Accounting & Financial Management_ </br>
+[article](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2020_Joyce_SuryoPrabowo.pdf)
 
-[4] [Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned (2019)](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf), in Ho, Alfred T., Maarten de Jong, and Zaozao Zhao (Eds.), _Performance Budgeting Reform: Theories and International Practices_
+**Suryo Prabowo, A.**. (2019). Performance Budgeting in Indonesia: Brief History, Progress, and Lessons Learned. Ho, Alfred T., Maarten de Jong, and Zaozao Zhao (Eds.), _Performance Budgeting Reform: Theories and International Practices_ </br>
+[article](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/2019_SuryoPrabowo.pdf)
 
 <br />
 
