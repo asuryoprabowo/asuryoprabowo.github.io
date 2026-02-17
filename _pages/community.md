@@ -11,9 +11,10 @@ This page highlights my recent and upcoming engagements with policy communities,
 
 Upcoming
 ---
+<!--
 _February 15, 2026_ <br />
 I am organizing a panel on budgetary politics and fiscal sustainability in Southeast Asia for submission to the [6th SEASIA Biennial Conference](https://seasia-consortium.org/20251212-2/) at NTU. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
-
+-->
 <br />
 
 Past year
