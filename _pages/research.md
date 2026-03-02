@@ -21,7 +21,7 @@ Publications
 
 Working papers
 ---
-Flood Disasters and Fiscal Federalism: Evidence from U.S. States (Submitted)
+Flood Disasters and Fiscal Federalism: Evidence from U.S. States
 
 Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
 
