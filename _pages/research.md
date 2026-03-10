@@ -5,7 +5,7 @@ title: "Research"
 
 Publications
 ---
-**Suryo Prabowo, A.** and [Pepinsky, T.B.](https://government.cornell.edu/thomas-pepinsky) (Forthcoming). _Bulletin of Indonesian Economic Studies_
+**Suryo Prabowo, A.** and [Pepinsky, T.B.](https://government.cornell.edu/thomas-pepinsky) (Forthcoming). Indonesia’s New Capital City: Public Funding and Public Support. _Bulletin of Indonesian Economic Studies_. <br />
 
 **Suryo Prabowo, A.** and [Spreen, T.L.](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (2025). Strategic Investment of Public Funds: State Responses to Federal R&D Grants. _Journal of Public Policy_. <br />
 [article](https://doi.org/10.1017/S0143814X25100913) | [replication codes](https://doi.org/10.7910/DVN/HHA3QM)
