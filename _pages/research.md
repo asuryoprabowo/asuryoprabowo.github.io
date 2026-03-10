@@ -5,6 +5,8 @@ title: "Research"
 
 Publications
 ---
+**Suryo Prabowo, A.** and [Pepinsky, T.B.](https://government.cornell.edu/thomas-pepinsky) (Forthcoming). _Bulletin of Indonesian Economic Studies_
+
 **Suryo Prabowo, A.** and [Spreen, T.L.](https://spp.umd.edu/our-community/faculty-staff/thomas-luke-spreen) (2025). Strategic Investment of Public Funds: State Responses to Federal R&D Grants. _Journal of Public Policy_. <br />
 [article](https://doi.org/10.1017/S0143814X25100913) | [replication codes](https://doi.org/10.7910/DVN/HHA3QM)
 
@@ -24,8 +26,6 @@ Working papers
 Flood Disasters and Fiscal Federalism: Evidence from U.S. States
 
 Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
-
-[Indonesia's New Capital City: Public Funding and Public Support](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283748), with [Thomas Pepinsky](https://government.cornell.edu/thomas-pepinsky) (R&R in _Bulletin of Indonesian Economic Studies_)
 
 Disaster Risk Disclosure in Government Financial Reports (Submitted)
 
