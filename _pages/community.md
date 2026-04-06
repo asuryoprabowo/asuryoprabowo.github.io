@@ -11,10 +11,14 @@ This page highlights my recent and upcoming engagements with policy communities,
 
 Upcoming
 ---
-<!--
-_February 15, 2026_ <br />
-I am organizing a panel on budgetary politics and fiscal sustainability in Southeast Asia for submission to the [6th SEASIA Biennial Conference](https://seasia-consortium.org/20251212-2/) at NTU. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
--->
+_April 8-9, 2026_ <br />
+I’ll be visiting several factories and recycling centers in Indonesia, including Nike, KMK, RCI, Foam Tech, and Frananda. The visits are being organized by colleagues from Monash Australia as part of their circular economy project. 
+
+<br />
+
+_May 31, 2026_ <br />
+I am organizing a panel on public investment, fiscal management, and financial governance in Southeast Asia for submission to the upcoming [Annual Conference of the Asian Association for Public Administration](https://www.ntu.edu.sg/ncpa/news-events/events/detail/2026/10/29/default-calendar/2026-annual-conference-of-the-asian-association-for-public-administration) at NTU, Singapore. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
+
 <br />
 
 Past year
