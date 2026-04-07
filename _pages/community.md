@@ -7,7 +7,7 @@ title: "Community"
 
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas. 
 
-This term, I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/), which integrates theoretical and practical dimensions. I welcome (1) early-career researchers working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Indonesia) or virtually (if you’re based elsewhere). In the past, my courses have featured experts from the World Bank, Asian Development Bank, and World Resources Institute, among other institutions.
+This term, I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
 
 <br />
 
