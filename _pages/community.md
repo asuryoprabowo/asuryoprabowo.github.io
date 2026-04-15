@@ -7,14 +7,14 @@ title: "Community"
 
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas. 
 
-In May 2026, I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
+This term (May-June 2026), I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
 
 <br />
 
 Upcoming
 ---
 _April 28-29, 2026_ <br />
-Together with [Ika Idris](https://www.monash.edu/indonesia/about/academic-staff/ika-idris), I will be co-leading training sessions as part of an executive education program for senior officials at the Ministry of Home Affairs. The program looks at disaster response and mitigation from multiple perspectives, and my sessions will focus on its financial dimensions. 
+Together with colleagues at Monash Indonesia, I will be facilitating sessions as part of an executive education program for senior officials at the Ministry of Home Affairs. The program looks at disaster response and mitigation from multiple perspectives, and my sessions will focus on its financial dimensions. 
 
 <br />
 
