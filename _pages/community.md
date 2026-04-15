@@ -24,7 +24,7 @@ I am organizing a panel on public investment, fiscal management, and financial g
 <br />
 
 _July 8-10, 2026_ <br />
-Anyone in Singapore? I’ll be presenting preliminary findings from a project titled “Budgetary Politics in Malaysia and Indonesia” at the 6th SEASIA Biennial Conference at the School of Social Sciences, NTU. This article will appear as a book chapter in an upcoming volume edited by [Phil Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce). 
+Anyone in Singapore? I’ll be presenting preliminary findings from a project titled “Budgetary Politics in Malaysia and Indonesia” at the 6th SEASIA Biennial Conference at the School of Social Sciences, NTU. This article will appear as a book chapter in an upcoming international volume edited by [Phil Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce).
 
 <br />
 
