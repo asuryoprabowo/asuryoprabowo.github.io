@@ -7,24 +7,34 @@ title: "Community"
 
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas. 
 
-This term, I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
+In May 2026, I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
 
 <br />
 
 Upcoming
 ---
-_April 8-9, 2026_ <br />
-I’ll be visiting several factories and recycling centers in Indonesia, including Nike, KMK, RCI, Foam Tech, and Frananda. The visits are being organized by colleagues from Monash Australia as part of their circular economy project. 
+_April 28-29, 2026_ <br />
+Together with [Ika Idris](https://www.monash.edu/indonesia/about/academic-staff/ika-idris), I will be co-leading training sessions as part of an executive education program for senior officials at the Ministry of Home Affairs. The program looks at disaster response and mitigation from multiple perspectives, and my sessions will focus on its financial dimensions. 
 
 <br />
 
-_May 31, 2026_ <br />
+Deadline by _May 31, 2026_ <br />
 I am organizing a panel on public investment, fiscal management, and financial governance in Southeast Asia for submission to the upcoming [Annual Conference of the Asian Association for Public Administration](https://www.ntu.edu.sg/ncpa/news-events/events/detail/2026/10/29/default-calendar/2026-annual-conference-of-the-asian-association-for-public-administration) at NTU, Singapore. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
+
+<br />
+
+_July 8-10, 2026_ <br />
+Anyone in Singapore? I’ll be presenting preliminary findings from a project titled “Budgetary Politics in Malaysia and Indonesia” at the 6th SEASIA Biennial Conference at the School of Social Sciences, NTU. This article will appear as a book chapter in an upcoming volume edited by [Phil Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce). 
 
 <br />
 
 Past year
 ---
+_April 8-9, 2026_ <br />
+I visited several factories and recycling centers in Indonesia, including Nike, KMK, and RCI. The visits were organized by colleagues from Monash Australia as part of their circular economy project.
+
+<br />
+
 _January 30, 2026_ <br />
 **Judging panelist** for an international business idea competition for high school students addressing United Nations Sustainable Development Goals, such as climate change.
 
