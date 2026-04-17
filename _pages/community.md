@@ -14,7 +14,7 @@ This term (May-June 2026), I'm also teaching a graduate course on [Public Sector
 Upcoming
 ---
 _April 28-29, 2026_ <br />
-Together with colleagues at Monash Indonesia, I will be leading a session for senior officials (Echelon II) at the Ministry of Home Affairs as part of their national leadership training. This program examines disaster response and mitigation from multiple perspectives, and my session will focus on the financial dimensions.
+Together with colleagues at Monash Indonesia, I will be leading a workshop for senior officials (Echelon II) at the Ministry of Home Affairs as part of their national leadership training. This workshop examines disaster response and mitigation from multiple perspectives, and my session will focus on the financial dimensions.
 
 <br />
 
