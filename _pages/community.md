@@ -26,7 +26,7 @@ Anyone in Singapore? I’ll be presenting preliminary findings from a project ti
 Past year
 ---
 _April 28-29, 2026_ <br />
-Together with colleagues at Monash Indonesia, I will be leading a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examines disaster response and mitigation from multiple perspectives, and my session will focus on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
+Together with colleagues at Monash Indonesia, I led a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examined disaster response and mitigation from multiple perspectives, and my session focused on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
 
 <br />
 
