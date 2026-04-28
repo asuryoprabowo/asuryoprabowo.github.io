@@ -13,11 +13,6 @@ This term (May-June 2026), I'm also teaching a graduate course on [Public Sector
 
 Upcoming
 ---
-_April 28-29, 2026_ <br />
-Together with colleagues at Monash Indonesia, I will be leading a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examines disaster response and mitigation from multiple perspectives, and my session will focus on the financial dimensions.
-
-<br />
-
 Deadline by _May 31, 2026_ <br />
 I am organizing a panel on public investment, fiscal management, and financial governance in Southeast Asia for submission to the upcoming [Annual Conference of the Asian Association for Public Administration](https://www.ntu.edu.sg/ncpa/news-events/events/detail/2026/10/29/default-calendar/2026-annual-conference-of-the-asian-association-for-public-administration) at NTU, Singapore. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
 
@@ -30,6 +25,11 @@ Anyone in Singapore? I’ll be presenting preliminary findings from a project ti
 
 Past year
 ---
+_April 28-29, 2026_ <br />
+Together with colleagues at Monash Indonesia, I will be leading a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examines disaster response and mitigation from multiple perspectives, and my session will focus on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
+
+<br />
+
 _April 8-9, 2026_ <br />
 I visited several factories and recycling centers in Indonesia, including Nike, KMK, and RCI. The visits were organized by colleagues from Monash Australia as part of their circular economy project.
 
