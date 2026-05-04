@@ -19,7 +19,7 @@ I am organizing a panel on public investment, fiscal management, and financial g
 <br />
 
 _June 3, 2026_ <br />
-My co-author, Tom Pepinsky, and I will participate in the Global Seminar Series to discuss our newly published BIES paper. This virtual event is organized by the ANU Indonesia Project and the Forum Kebijakan Pembangunan (FKP) Indonesia.
+My co-author, Tom Pepinsky, and I will participate in the Global Seminar Series to discuss our newly published BIES paper. This virtual event is organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP) Indonesia.
 
 <br />
 
