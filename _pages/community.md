@@ -17,7 +17,7 @@ _June 23, 2026_ <br />
 **Judging panelist** for the [Three Minute Thesis (3MT®)](https://www.monash.edu/graduate-research/news-and-events/3mt) at Monash Indonesia. A winner will be selected to represent our campus at the Monash Australia 3MT Competition this August. 
 
 _September 14-16, 2026_ <br />
-I'm tentatively attending the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
+I'm tentatively planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
 
 <br />
 
