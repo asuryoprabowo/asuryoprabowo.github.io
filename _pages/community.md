@@ -7,25 +7,25 @@ title: "Community"
 
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas. 
 
-This term (May-June 2026), I'm also teaching a graduate course on [Public Sector Reform](https://asuryoprabowo.github.io/teaching/) that includes elements of both theory and practice. I welcome (1) scholars working on relevant papers and (2) policy practitioners with direct reform experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest lectures by experts from the World Bank, the Asian Development Bank, and other institutions.
+Later this year, I'll also be teaching graduate courses on [sustainability-related topics](https://asuryoprabowo.github.io/teaching/), which include elements of theory and practice. I welcome (1) scholars working on relevant papers and (2) practitioners with direct experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest speakers from the World Bank, the Asian Development Bank, and other institutions.
 
 <br />
 
 Upcoming
 ---
-Deadline by _May 31, 2026_ <br />
-I am organizing a panel on public investment, fiscal management, and financial governance in Southeast Asia for submission to the upcoming [Annual Conference of the Asian Association for Public Administration](https://www.ntu.edu.sg/ncpa/news-events/events/detail/2026/10/29/default-calendar/2026-annual-conference-of-the-asian-association-for-public-administration) at NTU, Singapore. If you have a working paper on relevant topics and are interested in presenting, let’s get in touch so we can discuss the possibility of submitting a panel proposal together.
+_June 23, 2026_ <br />
+**Judging panelist** for the [Three Minute Thesis (3MT®)](https://www.monash.edu/graduate-research/news-and-events/3mt) at Monash Indonesia. A winner will be selected to represent our campus at the Monash Australia 3MT Competition this August. 
 
-_June 3, 2026_ <br />
-My co-author, Tom Pepinsky, and I will participate in the Global Seminar Series to discuss our newly published BIES paper. This virtual event is organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP) Indonesia.
-
-_July 8-10, 2026_ <br />
-Anyone in Singapore? I’ll present preliminary findings from a project titled “Budgetary Politics in Malaysia and Indonesia” at the 6th SEASIA Biennial Conference at the School of Social Sciences, NTU. This article will appear as a book chapter in an upcoming international volume edited by [Phil Joyce](https://spp.umd.edu/our-community/faculty-staff/philip-joyce).
+_September 14-16, 2026_ <br />
+I'm tentatively attending the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
 
 <br />
 
 Past year
 ---
+_June 3, 2026_ <br />
+My co-author, Tom Pepinsky, and I participated in the Global Seminar Series to discuss our newly published BIES paper. This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026).
+
 _April 28-29, 2026_ <br />
 Together with colleagues at Monash Indonesia, I led a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examined disaster response and mitigation from multiple perspectives, and my session focused on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
 
