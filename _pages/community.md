@@ -13,9 +13,6 @@ Later this year, I'll also be teaching graduate courses on [sustainability-relat
 
 Upcoming
 ---
-_June 23, 2026_ <br />
-**Judging panelist** for the [Three Minute Thesis (3MT®)](https://www.monash.edu/graduate-research/news-and-events/3mt) at Monash Indonesia. A winner will be selected to represent our campus at the Monash Australia 3MT Competition this August. 
-
 _September 14-16, 2026_ <br />
 I'm tentatively planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
 
@@ -31,9 +28,6 @@ Together with colleagues at Monash Indonesia, I led a workshop for senior offici
 
 _April 8-9, 2026_ <br />
 I visited several factories and recycling centers in Indonesia, including Nike, KMK, and RCI. The visits were organized by colleagues from Monash Australia as part of their circular economy project.
-
-_January 30, 2026_ <br />
-**Judging panelist** for an international business idea competition for high school students addressing United Nations Sustainable Development Goals, such as climate change.
 
 _January 22, 2026_ <br />
 **Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.” Read the news coverage [here](https://www.monash.edu/indonesia/news/monash-university-indonesia-and-university-of-maryland-co-host-workshop-on-bridging-grassroots-sustainability-and-policy-action).
