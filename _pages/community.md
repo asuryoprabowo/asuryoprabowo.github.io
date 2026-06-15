@@ -13,15 +13,25 @@ Later this year, I'll also be teaching graduate courses on [sustainability-relat
 
 Upcoming
 ---
+_June 24, 2026_ <br />
+I'm scheduled to give a talk on disaster finance at the Directorate General of Fiscal Balance, Ministry of Finance.
+
+<br />
+
 _September 14-16, 2026_ <br />
 I'm tentatively planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
+
+<br />
+
+_September 24–27, 2026_ <br />
+My abstract has been accepted for presentation at the Association for Budgeting and Financial Management (ABFM) Annual Conference. This year's conference will be held in Washington, D.C. -- the same city where I first attended the conference back in 2019. I'm looking forward to reconnecting with old friends in the DMV region.
 
 <br />
 
 Past year
 ---
 _June 3, 2026_ <br />
-My co-author, Tom Pepinsky, and I participated in the Global Seminar Series to discuss our newly published BIES paper. This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026).
+I participated in the Global Seminar Series to discuss my newly published BIES article (co-authored with Thomas Pepinsky). This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026).
 
 _April 28-29, 2026_ <br />
 Together with colleagues at Monash Indonesia, I led a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examined disaster response and mitigation from multiple perspectives, and my session focused on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
