@@ -31,22 +31,34 @@ My abstract has been accepted for presentation at the Association for Budgeting 
 Past year
 ---
 _June 3, 2026_ <br />
-I participated in the Global Seminar Series to discuss my newly published BIES article (co-authored with Thomas Pepinsky). This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026).
+I participated in the Global Seminar Series to discuss my newly published BIES article (co-authored with Thomas Pepinsky). This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026). 
+
+<br />
 
 _April 28-29, 2026_ <br />
 Together with colleagues at Monash Indonesia, I led a workshop for senior officials at the Ministry of Home Affairs as part of their national leadership training. This workshop examined disaster response and mitigation from multiple perspectives, and my session focused on the financial dimensions. Download my presentation slides [here](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/Presentation_Budgeting_for_Disaster.pdf).
 
+<br />
+
 _April 8-9, 2026_ <br />
 I visited several factories and recycling centers in Indonesia, including Nike, KMK, and RCI. The visits were organized by colleagues from Monash Australia as part of their circular economy project.
+
+<br />
 
 _January 22, 2026_ <br />
 **Co-chair** (with [Thomas Hilde](https://spp.umd.edu/our-community/faculty-staff/thomas-c-hilde)) of the Monash–UMD joint workshop “Exploring the Interface Between Bottom-Up Sustainability and Top-Down Policy.” Read the news coverage [here](https://www.monash.edu/indonesia/news/monash-university-indonesia-and-university-of-maryland-co-host-workshop-on-bridging-grassroots-sustainability-and-policy-action).
 
+<br />
+
 _January 7, 2026_ <br />
 **External examiner** for a dissertation prospectus at the Department of Economics, Universitas Indonesia.
 
+<br />
+
 _November 14, 2025_ <br />
 **Speaker** at the public dialogue “Suara Selatan Selatan: Ekonomi Restoratif sebagai Solusi,” organized by Lingkar Temu Kabupaten Lestari, as part of the Jakarta International Literary Festival.
+
+<br />
 
 _September 6, 2025_ <br />
 **Speaker** at the public discussion "Understanding and engaging with Indonesia's crisis," organized by the Indonesian Association at Cornell (IAC).
