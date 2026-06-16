@@ -18,6 +18,11 @@ I'm scheduled to give a talk on disaster finance at the Directorate General of F
 
 <br />
 
+_August 20-21, 2026_ <br />
+I'll be presenting my working paper at the Asian Association of Environmental and Resource Economics (AAERE) conference in Jakarta. If you're also attending, let's meet in person.
+
+<br />
+
 _September 14-16, 2026_ <br />
 I'm tentatively planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
 
