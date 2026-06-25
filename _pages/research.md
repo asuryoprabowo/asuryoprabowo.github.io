@@ -32,14 +32,14 @@ Flood Disasters and Fiscal Federalism: Evidence from U.S. States (Submitted)
 
 Proactive and reactive policy agendas during hurricanes: A textual analysis of budget documents (Submitted)
 
-Disaster Risk Disclosure in Government Financial Reports (Submitted)
-
-Diffusion of Climate Finance Instruments: Evidence from Low- and Middle-Income Countries, with [Komla Dzigbede](https://www.binghamton.edu/community-research-action/profile.html?id=dzigbede) (Submitted)
-
 <br />
 
 Work in progress
 ---
+Debt and Drought: Evidence from U.S. States
+
+Do Coal-Fired Power Plants Increase Tax Revenues? Evidence from Indonesian Districts
+
 Climate change as policy agenda: Evidence from Southeast Asia (Presented at [Cornell](https://events.cornell.edu/event/climate_change_as_policy_agenda_evidence_from_indonesia), [Harvard](https://chinaproject.harvard.edu/event/climate-resilience), and [UMD](https://spp.umd.edu/events/conference-indonesias-place-addressing-climate-change-southeast-asia))
 
 Budgetary Politics in Malaysia and Indonesia
