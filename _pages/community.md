@@ -13,18 +13,18 @@ Later this year, I'll also be teaching graduate courses on [sustainability-relat
 
 Upcoming
 ---
-_June 24, 2026_ <br />
-I'm scheduled to give a talk on disaster finance at the Directorate General of Fiscal Balance, Ministry of Finance.
-
-<br />
-
 _August 20-21, 2026_ <br />
 I'll be presenting my working paper at the Asian Association of Environmental and Resource Economics (AAERE) conference in Jakarta. If you're also attending, let's meet in person.
 
 <br />
 
 _September 14-16, 2026_ <br />
-I'm tentatively planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
+I'm planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
+
+<br />
+
+_September 21-23, 2026_ <br />
+Good news -- my collaborative project on climate politics and policies with [Quynh Nguyen](https://www.wyssacademy.org/en/about-us/team/prof-dr-quynh-nguyen) and [Phan Thi Thuc Anh](https://vinuni.edu.vn/people/phan-thi-thuc-anh/) has been awarded funding by the Leading House Asia Pacific. We'll kick off the project with a workshop in Bern, Switzerland. More details to come!
 
 <br />
 
@@ -35,6 +35,11 @@ My abstract has been accepted for presentation at the Association for Budgeting 
 
 Past year
 ---
+_June 24, 2026_ <br />
+I was invited to give a talk on disaster finance at the Directorate General of Fiscal Balance, Ministry of Finance.
+
+<br />
+
 _June 3, 2026_ <br />
 I participated in the Global Seminar Series to discuss my newly published BIES article (co-authored with Thomas Pepinsky). This virtual event was organized by the ANU Indonesia Project and the Forum Kajian Pembangunan (FKP). Watch the recording [here](https://www.indonesiaproject.net/global-seminars-2026). 
 
