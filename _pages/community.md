@@ -13,28 +13,43 @@ Later this year, I'll also be teaching graduate courses on [sustainability-relat
 
 Upcoming
 ---
-_August 20-21, 2026_ <br />
-I'll be presenting my working paper at the Asian Association of Environmental and Resource Economics (AAERE) conference in Jakarta. If you're also attending, let's meet in person.
+_August 20, 2026_ <br />
+I'll be chairing the "Climate Finance and Investment" panel at the Asian Association of Environmental and Resource Economics (AAERE) conference in Jakarta. I’ll also be presenting preliminary findings from a new paper.
+
+<br />
+
+_August 21, 2026_ <br />
+I’m looking forward to attending INDEF’s FGD ahead of its flagship _Sarasehan 100 Ekonom Indonesia_.
 
 <br />
 
 _September 14-16, 2026_ <br />
-I'm planning to attend the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
+I'm planning to present at the 27th Global Conference on Environmental Taxation in Berlin, Germany. Organized by the Potsdam Institute for Climate Impact Research (PIK), this year's theme is “Fiscal Instruments for International Climate Action.”
 
 <br />
 
 _September 21-23, 2026_ <br />
-Good news -- my collaborative project on climate politics and policies with [Quynh Nguyen](https://www.wyssacademy.org/en/about-us/team/prof-dr-quynh-nguyen) and [Phan Thi Thuc Anh](https://vinuni.edu.vn/people/phan-thi-thuc-anh/) has been awarded funding by the Leading House Asia Pacific. We'll kick off the project with a workshop in Bern, Switzerland. More details to come!
+Good news -- my collaborative project on climate politics and policies with [Quynh Nguyen](https://www.wyssacademy.org/en/about-us/team/prof-dr-quynh-nguyen) and [Phan Thi Thuc Anh](https://vinuni.edu.vn/people/phan-thi-thuc-anh/) has been awarded funding by the Leading House Asia Pacific. We'll kick off the project with a workshop in Bern, Switzerland.
 
 <br />
 
-_September 24–27, 2026_ <br />
-My abstract has been accepted for presentation at the Association for Budgeting and Financial Management (ABFM) Annual Conference. This year's conference will be held in Washington, D.C. -- the same city where I first attended the conference back in 2019. I'm looking forward to reconnecting with old friends in the DMV region.
+_October 2026_ <br />
+I’m tentatively scheduled to fly down to Monash University’s Clayton campus in Melbourne for about a week. Together with Sharyn Davis, my colleague Perdana Putri and I will organize the inaugural Indonesia Sustainability Update workshop. More details to come!
+
+<br />
+
+_November 24-25, 2026_ <br />
+I’ve been invited to join an international workshop at Monash University Malaysia in Kuala Lumpur, focused on the role of science in shaping the next global sustainable development agenda.
 
 <br />
 
 Past year
 ---
+_August 10-11, 2026_ <br />
+I joined the Rebana Energy Transition Workshop, co-organized by The Australia-Indonesia Centre, Monash Energy Institute, and Monash Indonesia. I only recently learned about the Rebana economic development and metropolitan corridor, built around three strategic anchors: Cirebon, Patimban, and Kertajati.
+
+<br />
+
 _June 24, 2026_ <br />
 I was invited to give a talk on disaster finance at the Directorate General of Fiscal Balance, Ministry of Finance.
 
