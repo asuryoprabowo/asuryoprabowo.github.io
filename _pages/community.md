@@ -34,12 +34,12 @@ Good news -- my collaborative project on climate politics and policies with [Quy
 <br />
 
 _October 2026_ <br />
-I’m tentatively scheduled to fly down to Monash University’s Clayton campus in Melbourne for about a week. Together with Sharyn Davis, my colleague Perdana Putri and I will organize the inaugural Indonesia Sustainability Update workshop. More details to come!
+I’m tentatively scheduled to fly down to Monash’s Clayton campus in Melbourne for about a week. Together with Sharyn Davies, my colleague Perdana Putri and I will organize the inaugural Indonesia Sustainability Update workshop. More details to come!
 
 <br />
 
 _November 24-25, 2026_ <br />
-I’ve been invited to join an international workshop at Monash University Malaysia in Kuala Lumpur, focused on the role of science in shaping the next global sustainable development agenda.
+I’ve been invited to join an international workshop at Monash Malaysia in Kuala Lumpur, focused on the role of science in shaping the next global sustainable development agenda.
 
 <br />
 
