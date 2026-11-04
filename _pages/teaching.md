@@ -8,8 +8,8 @@ Monash University
 _Public Sector Reform (ATI 5104)_ <br>
 Term II | [course page](https://handbook.monash.edu/2026/units/ATI5104) | [course evaluations](https://docs.google.com/gview?embedded=true&url=https://asuryoprabowo.github.io/files/teaching_eval_2026term2.pdf)
 
-_Sustainability and the Green Economy (ATI 5430)_ <br>
-Term II | [course page](https://handbook.monash.edu/2026/units/ATI5430)
+_Public Financial Management (ATI 5252)_ <br>
+Term II
 
 _Sustainability Measurement (ATI 5434)_ <br>
 Term IV | [course page](https://handbook.monash.edu/2026/units/ATI5434)
