@@ -14,7 +14,7 @@ Later this year, I'll also be teaching graduate courses on [sustainability-relat
 Upcoming
 ---
 _November 24 - December 2, 2026_ <br />
-I’m scheduled to fly down to Monash’s Clayton campus for about a week. Together with Sharyn Davies, my colleague Perdana Putri and I will organize a workshop on Indonesia's energy finance, policy, and governance. If you're in Melbourne and available to attend, sign up [here](https://www.eventbrite.com.au/e/indonesias-energy-transition-policy-finance-and-competing-priorities-tickets-2003220625817?aff=oddtdtcreator).
+I’m scheduled to fly down to Monash’s Clayton campus for about a week. Together with Sharyn Davies, my colleague Perdana Putri and I will organize a workshop on Indonesia's energy finance, policy, and governance. If you're in Melbourne and available to attend, register [here](https://www.eventbrite.com.au/e/indonesias-energy-transition-policy-finance-and-competing-priorities-tickets-2003220625817?aff=oddtdtcreator).
 
 <br />
 
