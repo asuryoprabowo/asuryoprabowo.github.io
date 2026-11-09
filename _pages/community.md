@@ -7,7 +7,7 @@ title: "Community"
 
 This page highlights my recent and upcoming engagements with policy communities, broadly defined. Please [email me](mailto:aichiro@monash.edu) to explore potential collaborations in related research areas. 
 
-Later this year, I'll also be teaching graduate courses on [sustainability-related topics](https://asuryoprabowo.github.io/teaching/), which include elements of theory and practice. I welcome (1) scholars working on relevant papers and (2) practitioners with direct experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest speakers from the World Bank, the Asian Development Bank, and other institutions.
+Throughout the year, I also teach graduate courses on topics related to [public policy and sustainability](https://asuryoprabowo.github.io/teaching/), which include elements of theory and practice. I welcome (1) scholars working on relevant papers and (2) practitioners with direct experience who are willing to share their work with my students, either in person (if you’re in Jakarta) or virtually (if you’re based elsewhere). In the past, my courses have featured guest speakers from the World Bank, the Asian Development Bank, and other institutions.
 
 <br />
 
